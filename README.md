@@ -1,1 +1,3 @@
-# ai4ms_tools
+# catCompTools
+
+A series of tools for theoretical catalytic computation.
